@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A Frontend developer from Nigeria.</h3>
+# 👋 Hi there, I'm Hassan AbdulWahab  
 
+🚀 **Frontend Developer | React && Next.js && TypeScript**
 
+I'm a user-centric developer who loves turning creative ideas into interactive web experiences. I enjoy working on projects that merge technology and usability — from personal finance tools to smart digital identity solutions.
+
+---
+
+### 🧠 About Me  
+- 💻 Currently focused on building **modern, responsive web apps** using **React**, **Next.js**, and **TypeScript**  
+- 🌍 Passionate about solving **real-world problems in emerging markets** through technology  
+- ⚙️ Experienced in **Firebase**, **Supabase**, **Convex DB**, and **Appwrite**  
+- 🧩 Love exploring **performance optimisation and server-side rendering**
+- 🌱 Always learning something new — lately, it's  **offline-capable apps**, **AI integrations**, and **IoT connections (ESP32 projects)**
