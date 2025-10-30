@@ -11,7 +11,7 @@ I'm a user-centric developer who loves turning creative ideas into interactive w
 - 🌍 Passionate about solving **real-world problems in emerging markets** through technology  
 - ⚙️ Experienced in **Firebase**, **Supabase**, **Convex DB**, and **Appwrite**  
 - 🧩 Love exploring **performance optimisation and server-side rendering**
-- 🌱 Always learning something new — lately, it's  **offline-capable apps**, **AI integrations**, and **IoT connections (ESP32 projects).**
+- 🌱 Always learning something new — lately, it's  **offline-capable apps**, **AI integrations**, and **IoT connections (ESP32 projects)**
 
 ---
 ### 📈 GitHub Stats
