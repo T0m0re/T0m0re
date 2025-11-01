@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | React && Next.js && TypeScript**
 
-I'm a user-centric developer who loves turning creative ideas into interactive web experiences. I enjoy working on projects that merge technology and usability — from personal finance tools to smart digital identity solutions.
+I'm a user-centric developer who loves turning creative ideas into interactive web experiences. I enjoy working on projects that merge technology and usability — from personal finance tools, to smart digital identity solutions.
 
 ---
 
